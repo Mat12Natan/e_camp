@@ -3,7 +3,7 @@
 # 1. Identificação
 
 a. Identidade Visual do projeto:
-<img src= "https://www.canva.com/design/DAFOBwKlL_s/ljWbLOfJRwNFl_8buSeSJg/edit?utm_content=DAFOBwKlL_s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><br>
+<img src= "https://www.canva.com/design/DAFOBwKlL_s/ljWbLOfJRwNFl_8buSeSJg/edit?utm_content=DAFOBwKlL_s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="300px"><br>
 
 b. Redes Sociais do Projeto
 - Em andamento...
@@ -34,56 +34,45 @@ e. Professores Colaboradores:
 a. Objetivos
 
 2.1 Objetivo geral
-
+Desenvolver um website que cadastre campeonatos de jogos eletrônicos competitivos, onde que possa apresentar suas respectivas equipes que participam e com informações do jogo que facilitem a compreensão do usuário.
 
 2.2 - Objetivos específicos
+- Apresentar times participantes;
+- Apresentar a premiação ao final do campeonato;
+- Apresentar jogadores de cada equipe;
+- Apresentar jogos que terá na competição;
+- Documentar horários dos respectivos campeonatos; 
+- Apresentar locais de transmissões;
+- Apresentar informações de edições anteriores.
 
 
 b. Escopo do projeto
 
-📱 O MVP (Minimum Viable Product - Produto Mínimo Viável) do aplicativo de turismo para Pinhais seria uma versão inicial funcional que oferece as seguintes funcionalidades:
+📱 O MVP (Minimum Viable Product - Produto Mínimo Viável) do site de cadastro de campeonatos de jogos eletônicos 
+- Informações básicas sobre os campeontaos: Descrições breves, imagens de campeonatos mais famosos entre o universo de jogadores.
 
-- Informações básicas sobre os pontos turísticos: Descrições breves, imagens e localização dos principais pontos turísticos em Pinhais.
+- Navegação básica: 
 
-- Navegação básica: Um mapa interativo que permite aos usuários visualizarem os pontos turísticos marcados e obterem direções simples para chegar a esses locais.
-
-- Listagem de restaurantes e serviços: Uma lista básica de restaurantes e serviços próximos aos pontos turísticos, incluindo informações de contato e classificações dos usuários.
+- Listagem de jogos e campeonatos: 
 
 #
 
 c. Principais entregas do projeto:
 
-- 🎨 Projeto de interface de usuário (UI) e experiência do usuário (UX): Isso inclui o design visual, a arquitetura de informação e a navegação do aplicativo, visando proporcionar uma experiência intuitiva e agradável para os usuários.
-
-- 🔨 Desenvolvimento do aplicativo: A implementação das funcionalidades essenciais do aplicativo, como a exibição de informações dos pontos turísticos, o mapa interativo e a listagem de restaurantes e serviços.
-
-- 📊 Integração de dados: Coleta e organização das informações sobre pontos turísticos, restaurantes e serviços em Pinhais, para serem exibidas corretamente no aplicativo.
 
 #
 
 d. Objetivos do projeto (itens quantificáveis que determinam se o projeto foi um sucesso ou não):
 
-- 📈 Número de acessos e procura do site: O objetivo seria alcançar um número específico de acessos, refletindo o interesse dos turistas em utilizar o aplicativo.
+- Número de acessos e procura do site: O objetivo seria alcançar um número específico de acessos, refletindo o interesse dos jogadores em utilizar o site.
 
-- 🌟 Avaliações e feedback dos usuários: O objetivo seria obter avaliações positivas dos usuários, com base em sua experiência de uso do aplicativo. Isso pode ser medido por meio de classificações e comentários nas lojas de aplicativos.
+- Avaliações e feedback dos usuários: O objetivo seria obter avaliações positivas dos usuários, com base em sua experiência de uso do site. 
 
 #
 
 e. Critérios de aceitação do produto:
 
-- ✅ O aplicativo deve exibir informações corretas e atualizadas sobre os pontos turísticos, restaurantes e serviços em Pinhais.
-
-- 🗺️ A navegação no mapa interativo deve ser precisa e fornecer direções confiáveis para os pontos turísticos selecionados.
-
-- 🎨 O design e a usabilidade do aplicativo devem ser intuitivos, garantindo uma experiência agradável para os usuários.
-
-- 💻 O aplicativo deve ser estável e responsivo em diferentes dispositivos móveis.
-
-- 🍽️ Os usuários devem ser capazes de encontrar facilmente informações relevantes sobre restaurantes e serviços próximos aos pontos turísticos.
-
-- 📸 O aplicativo deve permitir que os usuários classifiquem e comentem os pontos turísticos e compartilhem suas experiências nas redes sociais.
-
-Esses critérios de aceitação garantiriam que o produto atende às expectativas dos usuários, fornecendo informações precisas, uma experiência agradável e recursos úteis para os turistas que visitam Pinhais. 🌟🗺️✨
+- O site deve exibir informações corretas e atualizadas sobre os jogos, campeonatos e locais de transmissões.
 
 #
 
@@ -93,7 +82,7 @@ f. Link da Prototipação
 
 # 3. Matriz de Riscos
 
-1. Atraso no desenvolvimento do site devido a problemas técnicos inesperados. ⏱️💻
+1. Atraso no desenvolvimento do site devido a problemas técnicos inesperados. 
 
 Impacto: Pode afetar a entrega do projeto dentro do prazo estabelecido. 🚫⏰
 Probabilidade: Média. 📉
@@ -141,7 +130,7 @@ Mitigação: Identificar os diferenciais do aplicativo, como informações exclu
 
 # 4. Organização do Projeto
 a. Cronograma:
-- O cronograma do projeto pode ser encontrado neste [link](https://trello.com/b/TjFbAQCM/2023-tourism-app-pinhais).
+- O cronograma do projeto pode ser encontrado neste [link]
 
 b. Dependência entre atividades e duração para cada atividade:
 - A maior depedência para a realização das atividades está na espera do envio de dados por parte do cliente.
@@ -154,7 +143,7 @@ c. Organização da Equipe:
 | Matheus Natan | Responsável pela pesquisa e incubado também de desenvolver o artigo para o TCC. Responsável pela prototipação, desenvolvimento e versionamento do código-fonte da aplicação, postagens no GitHub e criação do README. |
 
 c. Link do trello/jira
-- [Trello](https://trello.com/b/TjFbAQCM/2023-tourism-app-pinhais)
+- [Trello]
 
 # 5. Metodologia
 a. Materiais e Métodos:
