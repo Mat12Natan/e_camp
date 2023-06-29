@@ -1,12 +1,9 @@
-# Tourism App - Pinhais 📱
+# e-Camp 📱
 
 # 1. Identificação
 
 a. Identidade Visual do projeto:
 
-
-<img src="https://cdn.discordapp.com/attachments/1054974776256495656/1118503401974681650/Logo_Prefeitura_1.jpg" width="300px">
-<br>
 
 b. Redes Sociais do Projeto
 - Em andamento...
