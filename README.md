@@ -3,7 +3,7 @@
 # 1. Identificação
 
 a. Identidade Visual do projeto:
-
+<img src= "https://www.canva.com/design/DAFOBwKlL_s/ljWbLOfJRwNFl_8buSeSJg/edit?utm_content=DAFOBwKlL_s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><br>
 
 b. Redes Sociais do Projeto
 - Em andamento...
