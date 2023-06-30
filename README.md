@@ -60,17 +60,20 @@ Desenvolver um website que cadastre campeonatos de jogos eletrônicos competitiv
 
 b. Escopo do projeto
 
-📱 O MVP (Minimum Viable Product - Produto Mínimo Viável) do site de cadastro de campeonatos de jogos eletônicos 
-- Informações básicas sobre os campeontaos: Descrições breves, imagens de campeonatos mais famosos entre o universo de jogadores.
+O MVP (Minimum Viable Product - Produto Mínimo Viável) do site de cadastro de campeonatos de jogos eletônicos será uma versão inicial totalmente crua, mas com as seguintes funções
+- Informações básicas sobre os campeontaos: Descrições breves, imagens de campeonatos mais famosos dentre o universo de jogadores.
 
-- Navegação básica: 
+- Navegação básica: Abas de fácil utilização e de cadastro de campeonatos de e-Sports com tema bem dinâmico.
 
-- Listagem de jogos e campeonatos: 
+- Listagem de jogos e campeonatos: jogos e campeonatos "genéricos" do mais conhecidos aos mais comuns.
 
 #
 
 c. Principais entregas do projeto:
 
+- Interface de login e cadastro de usuário: Visando uma interface intuitiva e fluída.
+- Interface de cadastro de campeonatos de e-Sports: A implementação de funcionalidades essenciais do site para a a realização de cadastro de campeonatos de jogos eletrônicos
+- Coleta de dados: Uma breve busca de dados básicos para complementar nos primeiros testes 
 
 #
 
@@ -85,42 +88,46 @@ d. Objetivos do projeto (itens quantificáveis que determinam se o projeto foi u
 e. Critérios de aceitação do produto:
 
 - O site deve exibir informações corretas e atualizadas sobre os jogos, campeonatos e locais de transmissões.
+- O site deve ser estável e responsivo em diferentes navegadores.
+- Os usuários devem ser capazes de encontrar facilmente informações relevantes sobre jogos, jogadores e campeonatos.
+- O design deve ser dinâmico e intuitivo para a facilitação de uso do usuário.
 
 #
 
 f. Link da Prototipação
 
-[Aqui](https://app.flutterflow.io/preview/t-c-c-prefeitura-pkpyud?telaInicial), você pode encontrar o link do protótipo do projeto!
+[Aqui](https://quant-ux.com/#/share.html?h=a2aa10arkFyjQKRWViLCSkQZJbMwyxGnTYqiyLW1kW707iooPPpzdPuzW0Re), você pode encontrar o link do protótipo do projeto!
 
 # 3. Matriz de Riscos
 
 1. Atraso no desenvolvimento do site devido a problemas técnicos inesperados. 
 
-Impacto: Pode afetar a entrega do projeto dentro do prazo estabelecido. 🚫⏰
-Probabilidade: Média. 📉
-Mitigação: Realizar uma análise detalhada dos requisitos técnicos e estabelecer prazos realistas. 📝📆 Manter uma comunicação eficiente entre a equipe de desenvolvimento para identificar e resolver problemas técnicos rapidamente. 📞👥
+- Impacto: Pode afetar a entrega do projeto dentro do prazo estabelecido. 
+- Probabilidade: Média. 
+- Mitigação: Realizar uma análise minunciosa e solucionar o problema o mais rápido possível para estipualar um novo prazo. 
 
-2. Mudanças frequentes nos requisitos do aplicativo durante o desenvolvimento. 🔄✏️
+2. Mudanças de sistema CSS. 
 
-Impacto: Pode resultar em atrasos, aumento de custos e falta de alinhamento com as expectativas dos usuários. 🚫⏰💰
-Probabilidade: Alta. 📈
-Mitigação: Estabelecer um processo eficaz de gerenciamento de mudanças, com a participação ativa dos stakeholders. 📑🤝 Realizar revisões regulares dos requisitos e obter aprovações formais para alterações significativas. ✅🔒
+Impacto: Pode resultar em atrasos, perda de senhas e logins de usuários, e desta forma a perda de confiança com o usuário
+Probabilidade: Alta. 
+Mitigação: Estabelecer um processo eficaz de gerenciamento de mudanças. Realizar revisões regulares dos requisitos e obter aprovações formais para alterações significativas. 
 
 #
 
 Riscos Técnicos:
 
-1. Incompatibilidade entre diferentes plataformas móveis. 📱🚫🔄
+1. Incompatibilidade entre diferentes navegadores.
 
-Impacto: Restrição de alcance para os usuários que utilizam sistemas operacionais diferentes. 🌍🔒
-Probabilidade: Média. 📉
-Mitigação: Realizar testes extensivos em diferentes plataformas móveis para identificar e resolver problemas de compatibilidade. 🧪✅ Utilizar frameworks e bibliotecas multiplataforma para facilitar o desenvolvimento para várias plataformas. 🛠️📲
+Impacto: Restrição de alcance para os usuários que utilizam navegadores diferentes 
+Probabilidade: Média. 
+Mitigação: Realizar testes em diferentes navegadores para identificar e resolver problemas de compatibilidade. 
 
-2. Vulnerabilidades de segurança no aplicativo. 🛡️🔓
+2. Vulnerabilidades de segurança no site. 
 
-Impacto: Comprometimento dos dados dos usuários e danos à reputação do aplicativo. 🚫🔐💔
-Probabilidade: Alta. 📈
-Mitigação: Implementar práticas de segurança adequadas, como criptografia de dados, autenticação robusta e testes de penetração regulares. 🔒🔐 Manter-se atualizado sobre as melhores práticas de segurança e seguir diretrizes de segurança estabelecidas. 📚🔒
+Impacto: Comprometimento dos dados dos usuários e danos à reputação do aplicativo. 
+Probabilidade: Alta. 
+Mitigação: Inserir diferentes formas de segurança adequada, como a autentiação em dois fatores, criptografia de dados dos usuários 
+Manter-se atualizado sobre as melhores práticas de segurança e respeitando a LGPD.
 
 #
 
