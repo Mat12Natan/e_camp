@@ -3,7 +3,7 @@
 # 1. Identificação
 
 a. Identidade Visual do projeto:
-<img src= "https://www.canva.com/design/DAFOBwKlL_s/ljWbLOfJRwNFl_8buSeSJg/edit?utm_content=DAFOBwKlL_s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="300px"><br>
+<img src= width="300px"><br>
 
 b. Redes Sociais do Projeto
 - Em andamento...
@@ -133,17 +133,17 @@ Manter-se atualizado sobre as melhores práticas de segurança e respeitando a L
 
 Riscos do Negócio:
 
-1. Baixa adesão dos turistas ao uso do aplicativo. 👥📉
+1. Baixa 
 
-Impacto: Baixo retorno do investimento e falta de sucesso comercial. 💸🚫📉
-Probabilidade: Média. 📉
-Mitigação: Realizar pesquisas de mercado para entender as necessidades e preferências dos turistas. 📊🎯 Realizar campanhas de marketing eficazes para promover o aplicativo e incentivar sua adoção. 📣💥 Oferecer benefícios exclusivos aos usuários do aplicativo, como descontos em serviços ou ingressos. 🎁💯
+Impacto: 
+Probabilidade: 
+Mitigação: 
 
-2. Concorrência de outros aplicativos de turismo já estabelecidos. 🏆📱💼
+2. Concorrência de outros sites ja conhecidos.
 
-Impacto: Dificuldade em conquistar uma parcela significativa do mercado e ganhar visibilidade. 🚫📈🌍
-Probabilidade: Alta. 📈
-Mitigação: Identificar os diferenciais do aplicativo, como informações exclusivas, recursos inovadores ou experiência personalizada. ✨🌟 Investir em estratégias de marketing direcionadas, destacando os benefícios únicos do aplicativo. 📣💎 Fornecer um suporte eficiente aos usuários e buscar parcerias com empresas locais para fortalecer a oferta de serviços. 🤝👥
+Impacto: Dificuldade em conquistar uma parcela significativa do mercado e ganhar visibilidade. 
+Probabilidade: Alta. 
+Mitigação: 
 
 É importante monitorar esses riscos durante o projeto e ajustar as estratégias de mitigação conforme necessário. A gestão proativa de riscos ajudará a reduzir os impactos negativos e a aumentar a probabilidade de sucesso do aplicativo de turismo para Pinhais. 🚀👍
 
