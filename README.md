@@ -60,10 +60,10 @@ Desenvolver um website que cadastre campeonatos de jogos eletrônicos competitiv
 
 b. Escopo do projeto
 
-O MVP (Minimum Viable Product - Produto Mínimo Viável) do site de cadastro de campeonatos de jogos eletônicos será uma versão inicial totalmente crua, mas com as seguintes funções
+O MVP (Minimum Viable Product - Produto Mínimo Viável) do site de cadastro de campeonatos de jogos eletônicos será uma versão inicial totalmente crua, mas com as seguintes funções:
 - Informações básicas sobre os campeontaos: Descrições breves, imagens de campeonatos mais famosos dentre o universo de jogadores.
 
-- Navegação básica: Abas de fácil utilização e de cadastro de campeonatos de e-Sports com tema bem dinâmico.
+- Navegação básica: Abas de fácil utilização e de cadastro de campeonatos de e-Sports com tema bem simples e dinâmico. 
 
 - Listagem de jogos e campeonatos: jogos e campeonatos "genéricos" do mais conhecidos aos mais comuns.
 
@@ -72,8 +72,10 @@ O MVP (Minimum Viable Product - Produto Mínimo Viável) do site de cadastro de 
 c. Principais entregas do projeto:
 
 - Interface de login e cadastro de usuário: Visando uma interface intuitiva e fluída.
-- Interface de cadastro de campeonatos de e-Sports: A implementação de funcionalidades essenciais do site para a a realização de cadastro de campeonatos de jogos eletrônicos
-- Coleta de dados: Uma breve busca de dados básicos para complementar nos primeiros testes 
+
+- Interface de cadastro de campeonatos de e-Sports: A implementação de funcionalidades essenciais do site para a a realização de cadastro de campeonatos de jogos eletrônicos. 
+
+- Coleta de dados: Uma breve busca de dados básicos para complementar nos primeiros testes. 
 
 #
 
@@ -96,7 +98,7 @@ e. Critérios de aceitação do produto:
 
 f. Link da Prototipação
 
-[Aqui](https://quant-ux.com/#/share.html?h=a2aa10arkFyjQKRWViLCSkQZJbMwyxGnTYqiyLW1kW707iooPPpzdPuzW0Re), você pode encontrar o link do protótipo do projeto!
+[Aqui], você pode encontrar o link do protótipo do projeto!
 
 # 3. Matriz de Riscos
 
@@ -145,7 +147,7 @@ Impacto: Dificuldade em conquistar uma parcela significativa do mercado e ganhar
 Probabilidade: Alta. 
 Mitigação: 
 
-É importante monitorar esses riscos durante o projeto e ajustar as estratégias de mitigação conforme necessário. A gestão proativa de riscos ajudará a reduzir os impactos negativos e a aumentar a probabilidade de sucesso do aplicativo de turismo para Pinhais. 🚀👍
+É importante monitorar esses riscos durante o projeto e ajustar as estratégias de mitigação conforme necessário. A gestão proativa de riscos ajudará a reduzir os impactos negativos e a aumentar a probabilidade de sucesso do aplicativo de turismo para Pinhais. 
 
 # 4. Organização do Projeto
 a. Cronograma:
@@ -171,21 +173,12 @@ A tabela abaixo apresenta todas as tecnologias e ferramentas que foram utilizada
 
 |  Ferramenta     |    Versão     | Localização  | Descrição de Uso  |
 | -----------     | ------------- | ------------ |  -------------    |
-| API Geolocation | 1.78.2  | [Documentação](https://developers.google.com/maps/documentation/geolocation/overview?hl=pt-br)  | API que fornece informações de localização geográfica.|
 | Canva | -  | [Canva](https://www.canva.com/pt_br/) | Realizar edição de fotos e artes para o aplicativo. |
 | Draw.io | -  | [Draw.io](https://app.diagrams.net/)  | Editor que permite a criação de diagramas.|
-| Express | 4.18.2  | [Express](https://expressjs.com/pt-br/)  | Gerenciar requisições de diferentes verbos HTTP em diferentes URLs. |
-| Flutter | 3.10.2 | [Flutter](https://flutter.dev/)  | Framework da linguagem de programação “Dart” para o desenvolvimento do app.  |
-| Flutter Flow | -  | [Flutter Flow](https://app.flutterflow.io/)  | Ferramenta de design e prototipagem. |
-| Git | 2.40.1  | [Git](https://git-scm.com/)  | Ferramenta de versionamento de código. |
 | GitHub | 2.40.1  | [GitHub](https://github.com/)  | Ferramenta de hospedagem de código fonte. |
 | LucidChart | -  | [LucidChart](https://www.lucidchart.com/pages/pt)  | Ferramenta que permite a criação e edição de diagramas. |
-| Mindmeister | -  | [Mindmeister](https://www.mindmeister.com/)  | Ferramenta de mapeamento e organização de ideias. |
-| MySQL Workbench | 8.0.32 | [MYSQL WorkBench](https://www.mysql.com/)  | Gerenciador de Banco de Dados. |
-| NodeJs | 18.16.0 | [NodeJs](https://nodejs.org/en)  | Execução de aplicações desenvolvidas com a linguagem de forma autônoma, sem depender de um navegador. |
-| NPM | 9.5.0  | [NPM](https://www.npmjs.com/)  | Gerenciador de pacotes para o ecossistema NodeJs. |
 | Trello | -  | [Trello](https://trello.com/)  | Ferramenta de gerenciamento de projetos e tarefas. |
-| Visual Studio Code | 1.78.2  | [Visual Studio Code](https://code.visualstudio.com/)  | Editor de código-fonte altamente personalizável. |
+
 
 
 # 5.1 Etapas do Modelo Incremental	
@@ -195,7 +188,8 @@ A tabela abaixo apresenta todas as tecnologias e ferramentas que foram utilizada
 
 a. Resultados esperados com o projeto desenvolvido:
 
-Com isso, um site para acompanhamento de campeonatos de jogos eletrônicos, e desta forma facilitar para quem quer ingressar ao mundo de jogos eletrônicos. 
+Com isso, um site para acompanhamento de campeonatos de jogos eletrônicos, e desta forma facilitar para quem quer ingressar ao mundo de jogos eletrônicos 
+e aumentar desta forma o número de público em campeonatos online ou presencial. 
 
 
 #
