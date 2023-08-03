@@ -3,7 +3,8 @@
 # 1. Identificação
 
 a. Identidade Visual do projeto:
-<img src= width="300px"><br>
+<img src="https://drive.google.com/file/d/16ILbYLd_t4cTFt1BJSpT391d1mle4uwn/view?usp=drive_link" width="300px">
+<br>
 
 b. Redes Sociais do Projeto
 - Em andamento...
@@ -12,7 +13,7 @@ c. Equipe:
 - Não possui.
 
 Integrantes: 
-- Matheus Natan
+- Matheus Natan da Costa
 
 Professor Orientador:
 
@@ -21,7 +22,7 @@ Professor Orientador:
 d. Data criação do documento:
 - 28/06/2023
 
-e. Professores Colaboradores:
+e. Professores Colaboradores: Cleverton
 
 # 2. Introdução
 
@@ -33,7 +34,7 @@ Um conteúdo atualizado e relevante sobre os jogos mais populares e as competiç
 
 Uma forma de acompanhar ao vivo os torneios e os jogadores profissionais de esports.
 
-Uma oportunidade de aprender mais sobre as estratégias, as regras e as curiosidades dos jogos e dos esports.
+Uma oportunidade de aprender mais sobre as estratégias, as regras e as curiosidades dos jogos e dos e-sports.
 
 Uma fonte de entretenimento, inspiração e motivação para os fãs e os praticantes de jogos e de esports.
 
@@ -98,7 +99,7 @@ e. Critérios de aceitação do produto:
 
 f. Link da Prototipação
 
-[Aqui], você pode encontrar o link do protótipo do projeto!
+[Aqui](https://quant-ux.com/#/share.html?h=a2aa10aRytQjEHvsJcP5Nm5CfeDLeW6zulezBLfZ2nYudGa7qmWF1RDJezPq), você pode encontrar o link do protótipo do projeto!
 
 # 3. Matriz de Riscos
 
@@ -111,7 +112,7 @@ f. Link da Prototipação
 2. Mudanças de sistema CSS. 
 
 Impacto: Pode resultar em atrasos, perda de senhas e logins de usuários, e desta forma a perda de confiança com o usuário
-Probabilidade: Alta. 
+Probabilidade: Média/Alta. 
 Mitigação: Estabelecer um processo eficaz de gerenciamento de mudanças. Realizar revisões regulares dos requisitos e obter aprovações formais para alterações significativas. 
 
 #
@@ -135,23 +136,23 @@ Manter-se atualizado sobre as melhores práticas de segurança e respeitando a L
 
 Riscos do Negócio:
 
-1. Baixa 
+1. Baixa quantidade de acesso ao site.
 
-Impacto: 
-Probabilidade: 
-Mitigação: 
+Impacto: Baixa quantidade de acesso e fracasso com as expectativas.
+Probabilidade: Alta
+Mitigação: Realizar pesquisas de mercado para entender as necessidades e preferências dos usuários. Realizar campanha de divulgação para aumento significativo de acesso.
 
 2. Concorrência de outros sites ja conhecidos.
 
 Impacto: Dificuldade em conquistar uma parcela significativa do mercado e ganhar visibilidade. 
 Probabilidade: Alta. 
-Mitigação: 
+Mitigação: Identificar os diferenciais dos sites, como informações exclusivas, recursos inovadores ou experiência personalizada.
 
 É importante monitorar esses riscos durante o projeto e ajustar as estratégias de mitigação conforme necessário. A gestão proativa de riscos ajudará a reduzir os impactos negativos e a aumentar a probabilidade de sucesso do aplicativo de turismo para Pinhais. 
 
 # 4. Organização do Projeto
 a. Cronograma:
-- O cronograma do projeto pode ser encontrado neste [link]
+- O cronograma do projeto pode ser encontrado neste [link](https://trello.com/b/Ks8QObIs/e-camp-natan)
 
 b. Dependência entre atividades e duração para cada atividade:
 - A maior depedência para a realização das atividades está na espera do envio de dados por parte do cliente.
@@ -163,8 +164,8 @@ c. Organização da Equipe:
 |----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Matheus Natan | Responsável pela pesquisa e incubado também de desenvolver o artigo para o TCC. Responsável pela prototipação, desenvolvimento e versionamento do código-fonte da aplicação, postagens no GitHub e criação do README. |
 
-c. Link do trello/jira
-- [Trello]
+c. Link do trello
+- [Trello](https://trello.com/b/Ks8QObIs/e-camp-natan)
 
 # 5. Metodologia
 a. Materiais e Métodos:
@@ -178,6 +179,9 @@ A tabela abaixo apresenta todas as tecnologias e ferramentas que foram utilizada
 | GitHub | 2.40.1  | [GitHub](https://github.com/)  | Ferramenta de hospedagem de código fonte. |
 | LucidChart | -  | [LucidChart](https://www.lucidchart.com/pages/pt)  | Ferramenta que permite a criação e edição de diagramas. |
 | Trello | -  | [Trello](https://trello.com/)  | Ferramenta de gerenciamento de projetos e tarefas. |
+| WordPress | -  | [WordPress](https://br.wordpress.org/)  | Ferramenta que permite a criação de sites/blog. |
+
+Este trabalho foi planejado visando uma melhora o aumento de pessoas acompanhar e cadastrar diversos campeonatos e-Sports.
 
 
 
@@ -188,9 +192,10 @@ A tabela abaixo apresenta todas as tecnologias e ferramentas que foram utilizada
 
 a. Resultados esperados com o projeto desenvolvido:
 
-Com isso, um site para acompanhamento de campeonatos de jogos eletrônicos, e desta forma facilitar para quem quer ingressar ao mundo de jogos eletrônicos 
-e aumentar desta forma o número de público em campeonatos online ou presencial. 
-
+-> Com isso, um site para acompanhamento de campeonatos de jogos eletrônicos, e desta forma facilitar para quem quer ingressar ao mundo de jogos eletrônicos e aumentar desta forma o número de público em campeonatos online ou presencial. 
+-> Valorizar os campeonatos e jogadores;
+-> Facilitar o acesso à informação;
+-> Incentivar que mais pessoas possam aderir ao universo de jogos e cenário competitivo.
 
 #
 
@@ -200,7 +205,7 @@ Os recursos para a monitoração e acompnhamento do projeto pode ser encontraodo
 
 # 6. Documentos e Diagramas do Aplicativo
 
-Todos os documentos e diagramas feitos para o desenvolvimento do aplicativo podem ser encontrados neste link:
+Todos os documentos e diagramas feitos para o desenvolvimento do aplicativo podem ser encontrados neste link: https://drive.google.com/drive/folders/1Cgmm34lCnC59dwyWeqNi-ohBPqyJjc54
 
 # 7. Fotos do Aplicativo
 
