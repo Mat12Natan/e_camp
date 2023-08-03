@@ -106,14 +106,18 @@ f. Link da Prototipação
 1. Atraso no desenvolvimento do site devido a problemas técnicos inesperados. 
 
 - Impacto: Pode afetar a entrega do projeto dentro do prazo estabelecido. 
-- Probabilidade: Média. 
+
+- Probabilidade: Média.
+ 
 - Mitigação: Realizar uma análise minunciosa e solucionar o problema o mais rápido possível para estipualar um novo prazo. 
 
 2. Mudanças de sistema CSS. 
 
-Impacto: Pode resultar em atrasos, perda de senhas e logins de usuários, e desta forma a perda de confiança com o usuário
-Probabilidade: Média/Alta. 
-Mitigação: Estabelecer um processo eficaz de gerenciamento de mudanças. Realizar revisões regulares dos requisitos e obter aprovações formais para alterações significativas. 
+- Impacto: Pode resultar em atrasos, perda de senhas e logins de usuários, e desta forma a perda de confiança com o usuário
+
+- Probabilidade: Média/Alta. 
+
+- Mitigação: Estabelecer um processo eficaz de gerenciamento de mudanças. Realizar revisões regulares dos requisitos e obter aprovações formais para alterações significativas. 
 
 #
 
