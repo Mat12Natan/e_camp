@@ -125,15 +125,19 @@ Riscos Técnicos:
 
 1. Incompatibilidade entre diferentes navegadores.
 
-Impacto: Restrição de alcance para os usuários que utilizam navegadores diferentes 
-Probabilidade: Média. 
-Mitigação: Realizar testes em diferentes navegadores para identificar e resolver problemas de compatibilidade. 
+-Impacto: Restrição de alcance para os usuários que utilizam navegadores diferentes 
+
+-Probabilidade: Média. 
+
+-Mitigação: Realizar testes em diferentes navegadores para identificar e resolver problemas de compatibilidade. 
 
 2. Vulnerabilidades de segurança no site. 
 
-Impacto: Comprometimento dos dados dos usuários e danos à reputação do aplicativo. 
-Probabilidade: Alta. 
-Mitigação: Inserir diferentes formas de segurança adequada, como a autentiação em dois fatores, criptografia de dados dos usuários 
+-Impacto: Comprometimento dos dados dos usuários e danos à reputação do aplicativo. 
+
+-Probabilidade: Alta. 
+
+-Mitigação: Inserir diferentes formas de segurança adequada, como a autentiação em dois fatores, criptografia de dados dos usuários 
 Manter-se atualizado sobre as melhores práticas de segurança e respeitando a LGPD.
 
 #
@@ -142,17 +146,21 @@ Riscos do Negócio:
 
 1. Baixa quantidade de acesso ao site.
 
-Impacto: Baixa quantidade de acesso e fracasso com as expectativas.
-Probabilidade: Alta
-Mitigação: Realizar pesquisas de mercado para entender as necessidades e preferências dos usuários. Realizar campanha de divulgação para aumento significativo de acesso.
+-Impacto: Baixa quantidade de acesso e fracasso com as expectativas.
+
+-Probabilidade: Alta
+
+-Mitigação: Realizar pesquisas de mercado para entender as necessidades e preferências dos usuários. Realizar campanha de divulgação para aumento significativo de acesso.
 
 2. Concorrência de outros sites ja conhecidos.
 
-Impacto: Dificuldade em conquistar uma parcela significativa do mercado e ganhar visibilidade. 
-Probabilidade: Alta. 
-Mitigação: Identificar os diferenciais dos sites, como informações exclusivas, recursos inovadores ou experiência personalizada.
+-Impacto: Dificuldade em conquistar uma parcela significativa do mercado e ganhar visibilidade. 
 
-É importante monitorar esses riscos durante o projeto e ajustar as estratégias de mitigação conforme necessário. A gestão proativa de riscos ajudará a reduzir os impactos negativos e a aumentar a probabilidade de sucesso do aplicativo de turismo para Pinhais. 
+-Probabilidade: Alta. 
+
+-Mitigação: Identificar os diferenciais dos sites, como informações exclusivas, recursos inovadores ou experiência personalizada.
+
+É importante monitorar os riscos durante o projeto e ajustar as estratégias de mitigação conforme necessário.
 
 # 4. Organização do Projeto
 a. Cronograma:
