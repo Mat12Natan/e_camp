@@ -1,9 +1,9 @@
-# e-Camp 📱
+# e-Camp
 
 # 1. Identificação
 
 a. Identidade Visual do projeto:
-<img src="https://drive.google.com/file/d/16ILbYLd_t4cTFt1BJSpT391d1mle4uwn/view?usp=sharing" width="300px">
+<img src="https://drive.google.com/file/d/16ILbYLd_t4cTFt1BJSpT391d1mle4uwn/view?usp=drive_link" width="1080px">
 <br>
 
 b. Redes Sociais do Projeto
